@@ -2,3 +2,5 @@
     - Route 
         - / : Home 
         - /healthCheck : Health Check
+
+2. Resolve bug in .env.sample
