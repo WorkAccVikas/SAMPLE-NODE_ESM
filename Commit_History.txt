@@ -1,0 +1,4 @@
+1. Basic Sample Code for server running     
+    - Route 
+        - / : Home 
+        - /healthCheck : Health Check

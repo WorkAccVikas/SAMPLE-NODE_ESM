@@ -1,0 +1,9 @@
+import { ApiResponse } from "../utils/Response/ApiResponse.js";
+import { ApiError } from "../utils/Error/ApiError.js";
+import { asyncHandler } from "../utils/asyncHandler.js";
+
+const healthCheck = asyncHandler(async (req, res) => {
+
+});
+
+export { healthCheck };
